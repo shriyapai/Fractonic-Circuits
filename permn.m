@@ -1,5 +1,6 @@
 function [M, I] = permn(V, N, K)
 
+%V = str2num(V); N = str2num(N); K = str2num(K);
 
 narginchk(2, 3) ;
 
